@@ -4,7 +4,7 @@ import SignUp from "../components/SignUp.vue";
 import HomeView from "../views/HomeView.vue";
 import productDetail from "../components/Product-Detail.vue";
 import BuyNow from "../components/BuyNow.vue";
-import Cart from "../views/Cart.vue";
+import Cart from "../views/cart.vue";
 
 // import BuyNow from "../components/BuyNow.vue";
 const router = createRouter({
